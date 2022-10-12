@@ -3,6 +3,13 @@ Xen Minter
 
 HOW TO USE
 
+```
+git clone https://github.com/0xtoshi/xenmint/
+yarn install
+or 
+npm install
+```
+
 1. Set Config.js 
 
 ```JS
