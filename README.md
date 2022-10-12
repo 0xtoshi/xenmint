@@ -70,3 +70,12 @@ node SendBackBNB.js
 this is experimental script, use at ur own risk!
 
 
+#NEW UPDATE
+
+add claimMintRewardAndShare(add, percent)
+
+u can call
+```
+node ClaimAndShare.js 
+```
+to withdraw there will be save gas :)
