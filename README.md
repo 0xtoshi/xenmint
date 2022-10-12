@@ -79,3 +79,9 @@ u can call
 node ClaimAndShare.js 
 ```
 to withdraw there will be save gas :)
+
+#Add Reward Calc for all address
+```
+node RewardCalc.js
+```
+will show all sum reward address
